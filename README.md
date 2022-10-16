@@ -24,7 +24,7 @@ I used a library called 'firebase-admin' I think. Because after using my key cre
 
 # Useful Websites
 
-* [Youtube - Getting Started with Cloud Firestore with Node.js](https://www.youtube.com/watch?v=Z87OZtIYC_0)
+* [Youtube - Getting Started with Cloud Firestore with Node.js](https://youtu.be/5vkkPOQtyxw)
 
 # Future Work
 
