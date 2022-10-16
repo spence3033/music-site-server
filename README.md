@@ -7,7 +7,7 @@ Then to run the Web App you'll open the angular project on vscode and run "ng se
 
 I wrote this software to learn how to work with a node.js server and to learn how to work with a firebase database.
 
-[Software Demo Video](https://youtu.be/YVXL5T68frs)
+[Software Demo Video](https://youtu.be/5vkkPOQtyxw)
 
 # Cloud Database
 
