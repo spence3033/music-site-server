@@ -24,8 +24,7 @@ I used a library called 'firebase-admin' I think. Because after using my key cre
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=RSJxWJ6dCL4&t=824s)
+* [Youtube - Getting Started with Cloud Firestore with Node.js](https://www.youtube.com/watch?v=Z87OZtIYC_0)
 
 # Future Work
 
