@@ -2,7 +2,7 @@
 
 In this, I created a simple start of a website with a server. There isn't a lot of interaction but I plan to further work on this until I can use it for a future time to help music teachers.
 
-The server, by the way is found at https://github.com/spence3033/music-site-server.git. I made a different angular project with the server. When the server is pulled up in vscode, you run "node app.js". That will start it running.
+The server, by the way is found at https://github.com/spence3033/Music-App.git. I made a different angular project with the server. When the server is pulled up in vscode, you run "node app.js". That will start it running.
 Then to run the Web App you'll open the angular project on vscode and run "ng serve --proxy-config proxy.conf.json".
 
 I wrote this software to learn how to work with a node.js server.
