@@ -6,7 +6,7 @@ This is a music website with a working login. Eventually it will display assignm
 
 I've had a music teacher ask if I wanted to make a website for her buisness. So this was a work in progress to learn enough so I could do this for her. I also am learning this for future career skills.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Login Credentials Works](https://youtu.be/1Ji0KCNuTmk)
 
 # Development Environment
 
