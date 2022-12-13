@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I have been very excited to try implementing complete websites on my own, with a server, and a database. This software was to help teach me because eventually I want to make websites in my career.
 
-{Provide a description the software that you wrote.}
+This is a music website with a working login. Eventually it will display assignments, and allow music teachers to assign assignments to their students.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+I've had a music teacher ask if I wanted to make a website for her buisness. So this was a work in progress to learn enough so I could do this for her. I also am learning this for future career skills.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Vscode as my IDE environment.
 
-{Describe the programming language that you used and any libraries.}
+I used the Angular framework.
+Thie framework uses HTML, CSS, Typescript.
+
+The server uses Express.js.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I used a course I bought on Udemy to work on this.
+* [Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create an interactive page that allows teachers to assign assignments to students.
+* Create a separate student page for progressing through assignments they have. 
